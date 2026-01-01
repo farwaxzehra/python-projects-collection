@@ -9,7 +9,7 @@ scans a text file to detect potential sensitive information such as emails, phon
 ### Banking System:
 Simulates a basic banking application allowing users to Create account,deposit, withdraw, and check balances, illustrating workflow logic and authentication.
 
-### Mini Cloud Security Monitor:
+### Mini Cloud Resource Monitor:
 Monitors CPU, memory, and storage; alerts & gives suggestions if limits are exceeded, this highlights basic monitoring.
 ### Security Monitor:
 Manages user login and registration while keeping track of all login attempts.
